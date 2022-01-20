@@ -3,8 +3,11 @@
 
 ### ToDo
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
-
-
+Address: 0x9C9744D600D8309Ce888B9A8d2bD0FB5944af8b2
+Token: Star Coin
+Symbol: STR
+Truffle: v5.4.2
+OZ: v4.4.2
 
 ### Dependencies
 For this project, you will need to have:
